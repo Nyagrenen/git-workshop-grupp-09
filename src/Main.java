@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Main{
-    public static void main(String[] args){
+public class Main {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         Isak isak = new Isak();
@@ -34,6 +34,18 @@ public class Main{
                 break;
             case "Andre food":
                 andre.food();
+                break;
+            case "Isak drink":
+                isak.drink();
+                break;
+            case "Mae drink":
+                mae.drink();
+                break;
+            case "Thor drink":
+                thor.drink();
+                break;
+            case "Andre drink":
+                andre.drink();
                 break;
             default:
                 break;
