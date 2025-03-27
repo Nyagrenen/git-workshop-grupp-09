@@ -1,6 +1,6 @@
 # git-workshop-grupp-09
-Hej hej från Isak
-Hej hej från Mae
+Hejdå från Mae
+Hej hej från Isak, eller inte?
 hej från André
-Hej från Thor
 Hej igen från Thor
+Hej från André igen
