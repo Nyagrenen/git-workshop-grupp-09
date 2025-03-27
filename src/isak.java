@@ -5,4 +5,7 @@ public class Isak{
     public void food(){
         System.out.println("🦞");
     }
+    public void drink(){
+        System.out.println("Päroncider");
+    }
 }
