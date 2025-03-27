@@ -8,7 +8,7 @@ public class Andre{
     }
 
 	public void drink() {
-		System.out.println("Vatten")
+		System.out.println("Vatten");
 	}
 
 }
