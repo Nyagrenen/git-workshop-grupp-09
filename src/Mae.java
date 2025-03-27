@@ -6,4 +6,8 @@ public class Mae{
     public void food() {
         System.out.println("I like nasigoreng");
     }
+
+    public void drink() {
+        System.out.println("Hallon Soda (c o o p)");
+    }
 }
