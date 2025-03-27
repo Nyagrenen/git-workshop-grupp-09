@@ -22,6 +22,19 @@ public class Main{
                 break;
             case "Andre":
                 andre.hello();
+                break;
+            case "Isak food":
+                isak.food();
+                break;
+            case "Mae food":
+                mae.food();
+                break;
+            case "Thor food":
+                thor.food();
+                break;
+            case "Andre food":
+                andre.food();
+                break;
             default:
                 break;
         }
