@@ -7,4 +7,8 @@ public class Andre{
         System.out.println("Lasagne");
     }
 
+	public void drink() {
+		System.out.println("Vatten")
+	}
+
 }
